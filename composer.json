@@ -1,0 +1,12 @@
+{
+    "name": "andpop-mrsu/hello",
+    "description": "Demo project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andrey Popov",
+            "email": "andpop@mail.ru"
+        }
+    ],
+    "require": {}
+}
